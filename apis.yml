@@ -37,7 +37,7 @@ x-enrichment-note: >-
   2026-07-19. Former domain immunityproject.org (HTTP 302) redirects to
   tech.blab.com, an unrelated news outlet. No catalog artifacts produced (no
   fabrication).
-specificationVersion: '0.20'
+specificationVersion: '0.23'
 created: '2026-07-17'
 modified: '2026-07-19'
 tags:
