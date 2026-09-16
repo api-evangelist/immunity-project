@@ -44,7 +44,7 @@ x-enrichment-note: No live first-party website, developer portal, docs, or API s
   catalog artifacts produced (no fabrication).
 specificationVersion: '0.23'
 created: '2026-07-17'
-modified: '2026-09-15'
+modified: '2026-09-16'
 tags:
 - Company
 - Non-Profit
@@ -54,6 +54,7 @@ tags:
 - Vaccine
 - Machine-Learning
 - Y Combinator
+- Defunct
 tags_raw:
 - Company
 - Nonprofit
@@ -63,6 +64,7 @@ tags_raw:
 - Vaccine
 - Machine Learning
 - Y Combinator
+- Defunct
 apis: []
 properties:
 - type: CompanyProfile
