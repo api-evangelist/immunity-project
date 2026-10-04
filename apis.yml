@@ -49,10 +49,10 @@ tags:
 - Company
 - Non-Profit
 - Health Tech
-- Biotech
+- Biotechnology
 - HIV
 - Vaccines
-- Machine-Learning
+- Machine Learning
 - Y Combinator
 - Defunct
 tags_raw:
@@ -65,6 +65,7 @@ tags_raw:
 - Machine Learning
 - Y Combinator
 - Defunct
+- Machine-Learning
 apis: []
 properties:
 - type: CompanyProfile
